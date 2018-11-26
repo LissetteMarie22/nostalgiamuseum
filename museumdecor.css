@@ -1,0 +1,294 @@
+body{
+font-family: Georgia, "Times New Roman", Times, serif;
+color:#555;
+background:#ccc;
+padding:0;
+margin:0;
+}
+h1,h2,h3,h4,h5,h6{
+
+font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+font-weight:normal;
+color:#333;
+}
+p{
+font-family: "Source Sans Pro", sans-serif;
+font-size: 14px;
+font-weight:500px;
+
+}
+
+.top-column{
+height:100px;
+background:url(images/educationbanner.png);
+background-repeat:no-repeat;
+background-size:1114px 100px;
+
+
+}
+.heading h1{
+color:white;
+font-size:2.2em;
+font-weight:670;
+text-align:center;
+text-shadow:2px 2px 2px rgba(0,0,0,0.5);
+display:block;
+margin-left: 0px;
+}
+.heading{
+color:#000;
+position:absolute;
+top:0px;
+margin-left:12px;
+padding:5px 0; /*Zero is left and right */
+/* To center it on the page */
+z-index: 100; /*because position is absolute, you want it to be on the lowest index level possible */
+
+}
+
+  .container.middle{
+  background:white;
+  border-radius:5px;
+  box-shadow: 0px 0px 0px 3px; rgba(0,0,0,0.8);
+ margin-right:430px;
+  width:1110px;
+  margin-top:0 auto;
+
+  }
+.comment{
+margin:10px;
+display: inline-block;
+
+}
+.item img  {
+max-width:100%;
+width auto;
+align:center;
+}
+a.commentlink{
+text-decoration:none;
+outline:none;
+}
+.commentcontent span{
+display:none;
+}
+
+
+
+.item-desc .read-more{
+position:absolute;
+bottom:0;
+left:0;
+width:100%;
+text-align:center;
+margin:0;
+padding:30px 0;
+background-image: linear-gradient:(to-bottom,transparent,black);
+
+}
+.nav.navbar-nav  li a:hover{
+background:linear-gradient(#00CCFF,#66CDAA);
+border-radius:3px;
+}
+
+.nav.navbar-nav li a{
+
+margin-right:10px;
+}
+.navbar{
+
+border-radius:5px;
+color:white;
+padding:0;
+margin-right:42px;
+margin-left:-14px;
+position:relative;
+}
+navigation{
+padding:0;
+
+}
+.post p{
+font-weight:bold;
+}
+
+.container.researchmiddle{
+background:white;
+ border-radius:5px;
+ box-shadow: 0px 0px 0px 3px; rgba(0,0,0,0.8);
+margin-left:690px;
+width:1320px;
+}
+
+.container.researchmiddle.container.header p{
+margin-left: -2px;
+}
+
+
+
+
+
+@media (max-width:450px){
+.top-column {
+background-size:;
+margin-right:-60px;
+
+
+}
+
+
+.heading h1{
+
+font-size:14px;
+margin-left:70px;
+}
+
+.lead{
+font-size:14px;
+margin-right:-25px;
+}
+.navbar{
+width:520px;
+margin-left:-20px;
+}
+
+.container.middle{
+background:white;
+border-radius:5px;
+box-shadow: 0px 0px 0px 3px; rgba(0,0,0,0.8);
+width:450px;
+margin-right:-50px;
+margin-top:0;
+height:auto;
+
+}
+
+}
+
+@media (min-width:800px) and (max-width:1200px){
+
+.top-column {
+background-size: 1200px 100px ;
+margin:0 auto;
+}
+
+
+
+.heading h1{
+margin-top:4px;
+font-size:25px;
+margin-left:110px;
+}
+
+.lead{
+font-size:20px;
+text-align:center;
+}
+
+.navbar{
+margin-left:-9px;
+width:1369px;
+}
+
+.container.middle{
+margin-left:-100px;
+background:white;
+border-radius:5px;
+box-shadow: 0px 0px 0px 3px; rgba(0,0,0,0.8);
+
+}
+.container.researchmiddle{
+margin-left:-100px;
+}
+
+}
+
+
+
+
+.collapse.navbar-collapse ul li{
+ margin-right:25px;
+ border-right: 1px solid #5c5b5b;
+ margin-right:15px;
+ padding-right: 20px;
+ }
+ .collapse.navbar-collapse ul li a{
+ font-family: 'Lato' sans-serif;
+ font-size:15px;
+ color:#fff;
+ padding:12px 30px 1opx 30px;
+ margin-right:15px;
+ }
+
+ .description{
+ font-family: 'Cardo:700', serif;
+
+
+ }
+ .divBelow {
+ margin-top: 50px;
+ }
+
+  .col-sm-3 img{
+ height:200px;
+ width:200px;
+ display:inline-block;
+ }
+ .header{
+ padding-top:20px;
+ padding-bottom:20px;
+ margin-left:40px;
+ margin-right:0px;
+ }
+
+ .navbar-brand{
+
+ float:left;
+ min-height:55px;
+ padding:0px 15px;
+ }
+ navbar-inverse .navbar-nav .active a:focus,
+  navbar-inverse .navbar-nav .active a:hover{
+
+  color:white;
+  background-color:black;
+}
+
+
+ .post{
+ height:auto;
+ }
+ /*Middle of page styling starts here*/
+ main{
+ border:1px solid #222;
+ border-radius:5px;
+ padding-bottom:8px;
+ padding-top:10px;
+ }
+ .post{
+ margin-bottom:60px;
+ }
+.heading h1{
+
+font-size:2.2em;
+font-weight:670;
+margin-left: 160px;
+text-shadow:2px 2px 2px rgba(0,0,0,0.5);
+display:block;
+color:white;
+
+}
+ .carousel-inner img{
+ height:500px;
+ width:1900px;
+ }
+ .carousel-caption{
+ top:50%;
+ transform: translateY(-50%);
+
+ }
+ .carousel-inner h1{
+color:white;
+ text-shadow: 4px 4px black;
+ font-size:64px;
+ }
