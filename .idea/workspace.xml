@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="950185ee-566b-4ed1-b767-9eddd5613a6c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/201810 Study Information for Quiz 4 Revised.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/201810 Study Information for Quiz 5.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/All Races Sample Ballot_2018 General.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/How do I study for Quizzes or Exams.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/VIDPRESENTATION.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/t-2gea3Qis3HRatSErYHM4MfgTtbkbGEmP.mp4" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/museumdecor.css" afterPath="$PROJECT_DIR$/museumdecor.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/research.html" afterPath="$PROJECT_DIR$/research.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/society.html" afterPath="$PROJECT_DIR$/society.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/student.html" afterPath="$PROJECT_DIR$/student.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teacher.html" afterPath="$PROJECT_DIR$/teacher.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,11 +23,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="research.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="research.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/research.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="17" column="110" lean-forward="false" selection-start-line="17" selection-start-column="110" selection-end-line="17" selection-end-column="110" />
+            <state relative-caret-position="450">
+              <caret line="59" column="21" lean-forward="false" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -85,7 +73,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="museumdecor.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="museumdecor.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/museumdecor.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="658">
@@ -121,13 +109,13 @@
       <find>rese</find>
       <find>resea</find>
       <find>66CDAA</find>
-      <find>img</find>
       <find>middle</find>
       <find>body</find>
       <find>js</find>
       <find>current</find>
       <find>telegraph.co</find>
       <find>h4</find>
+      <find>img</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -143,11 +131,11 @@
       <list>
         <option value="$PROJECT_DIR$/readmore.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/research.html" />
         <option value="$PROJECT_DIR$/society.html" />
         <option value="$PROJECT_DIR$/student.html" />
         <option value="$PROJECT_DIR$/teacher.html" />
         <option value="$PROJECT_DIR$/museumdecor.css" />
+        <option value="$PROJECT_DIR$/research.html" />
       </list>
     </option>
   </component>
@@ -708,10 +696,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/research.html">
+    <entry file="file://$PROJECT_DIR$/student.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="17" column="110" lean-forward="false" selection-start-line="17" selection-start-column="110" selection-end-line="17" selection-end-column="110" />
+        <state relative-caret-position="1705">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/museumdecor.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="658">
+          <caret line="287" column="17" lean-forward="false" selection-start-line="287" selection-start-column="17" selection-end-line="287" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -732,18 +728,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/student.html">
+    <entry file="file://$PROJECT_DIR$/research.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1705">
-          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/museumdecor.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="287" column="17" lean-forward="false" selection-start-line="287" selection-start-column="17" selection-end-line="287" selection-end-column="17" />
+        <state relative-caret-position="450">
+          <caret line="59" column="21" lean-forward="false" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
           <folding />
         </state>
       </provider>
