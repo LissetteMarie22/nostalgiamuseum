@@ -117,17 +117,7 @@ padding:0;
 font-weight:bold;
 }
 
-.container.researchmiddle{
-background:white;
- border-radius:5px;
- box-shadow: 0px 0px 0px 3px; rgba(0,0,0,0.8);
-margin-left:190px;
-width:1320px;
-}
 
-.container.researchmiddle.container.header p{
-margin-left: -2px;
-}
 
 
 
@@ -287,7 +277,7 @@ color:white;
  margin:0 auto;
  margin-left: 355px;
  height:500px;
- width:1150px;
+ width:1100px;
  }
  .carousel-caption{
  top:50%;
